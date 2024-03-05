@@ -15,6 +15,7 @@ use Icinga\User;
 use Icinga\Web\Form;
 use Icinga\Web\RememberMe;
 use Icinga\Web\Url;
+use ipl\Web\Widget\Link;
 
 /**
  * Form for user authentication
